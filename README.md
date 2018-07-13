@@ -1,5 +1,5 @@
-# A simple ESP32 Weather Station 
-# for ESP-Wrover-Kit and M5Stack
+## A simple ESP32 Weather Station 
+## for #ESP-Wrover-Kit ##and #M5Stack
 
 **Buit on PlatformIO**
 
