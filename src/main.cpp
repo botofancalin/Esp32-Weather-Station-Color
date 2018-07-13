@@ -8,7 +8,7 @@ void setup(void)
     M5.Lcd.setBrightness(200);
     M5.Lcd.fillScreen(TFT_BLACK);
 
-    WiFi.begin("WifiName", "WifiPass");
+    WiFi.begin(WIFI, WIFI_PASS);
     M5.Lcd.print("Connecting to Wifi");
     while (WiFi.status() != WL_CONNECTED)
     {
