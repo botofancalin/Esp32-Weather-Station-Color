@@ -1,0 +1,5 @@
+CITY=Timisoara;
+COUNTRY=RO;
+LANGUAGE=RO;
+APIKEY="Your WeatherUnderground api key here;
+TIME_OFFSET="2";
