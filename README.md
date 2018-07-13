@@ -2,6 +2,7 @@
 # for ESP-Wrover-Kit and M5Stack
 
 ### Select the target from platformio.ini "build_flags"
+### Set the Wifi credentials on platformio.ini "build_flags"
 
 - buit on PlatformIO
 - NO additional libraries needed
